@@ -50,3 +50,10 @@ Deploy the contents of the ./dapp folder
 * [Solidity Language Reference](http://solidity.readthedocs.io/en/v0.4.24/)
 * [Ethereum Blockchain Explorer](https://etherscan.io/)
 * [Web3Js Reference](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+## Contact Me!
+Author: Ethan Moore  
+Email: eldm2350@protonmail.com  
+Github: https://github.com/eldm-ethanmoore  
+LinkedIn: https://www.linkedin.com/in/ethan-moore-a7106121a/  
+Website: https://eldm.net
